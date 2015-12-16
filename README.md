@@ -1,3 +1,3 @@
 # test
 
-hi!
+Hi! This is a test project.
