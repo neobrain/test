@@ -7,7 +7,3 @@ dfsfsd
 asd
 asdsad
 sdfds
-sdf
-sdf
-sdf
-asdasasdas
